@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.MoneyDetailsContainer {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.Container {
+  border-radius: 8px;
+  height: 120px;
+  width: 310px;
+  padding: 20px;
+}
+
+.balance {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+
+.balanceSection {
+  display: flex;
+}
+
+.img {
+  width: 70px;
+  height: 70px;
+  align-self: center;
+  margin: 10px;
+}
+
+.Details {
+  margin-left: 10px;
+}
+
+.income {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.savings {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}

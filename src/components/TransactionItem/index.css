@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.HistoryItemContainer {
+  display: flex;
+  border: 1px solid #7e858e;
+  justify-content: space-evenly;
+}
+
+.delimg {
+  height: 30px;
+  width: 30px;
+  align-self: center;
+}
+
+.delBtn {
+  background-color: transparent;
+  border: none;
+}
